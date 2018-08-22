@@ -1,0 +1,218 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef1"
+            },
+            "MasterLabel": "21",
+            "DeveloperName": "Veintiun",
+            "Language__c": "Spanish",
+            "NumberValue__c": "veintiun"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef2"
+            },
+            "MasterLabel": "12",
+            "DeveloperName": "doce",
+            "Language__c": "Spanish",
+            "NumberValue__c": "doce"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef3"
+            },
+            "MasterLabel": "14",
+            "DeveloperName": "Catorce",
+            "Language__c": "Spanish",
+            "NumberValue__c": "catorce"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef4"
+            },
+            "MasterLabel": "17",
+            "DeveloperName": "Diecisiete",
+            "Language__c": "Spanish",
+            "NumberValue__c": "diecisiete"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef5"
+            },
+            "MasterLabel": "18",
+            "DeveloperName": "Dieciocho",
+            "Language__c": "Spanish",
+            "NumberValue__c": "dieciocho"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef6"
+            },
+            "MasterLabel": "CENTS",
+            "DeveloperName": "Centavos",
+            "Language__c": "Spanish",
+            "NumberValue__c": "centavo",
+            "OptionalValue__c": "centavos"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef7"
+            },
+            "MasterLabel": "22",
+            "DeveloperName": "Veintidos",
+            "Language__c": "Spanish",
+            "NumberValue__c": "veintidos"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef8"
+            },
+            "MasterLabel": "FINAL",
+            "DeveloperName": "FinalSP",
+            "Language__c": "Spanish",
+            "NumberValue__c": "con",
+            "OptionalValue__c": "M/cte"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef9"
+            },
+            "MasterLabel": "11",
+            "DeveloperName": "Eleven",
+            "Language__c": "Spanish",
+            "NumberValue__c": "once"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef10"
+            },
+            "MasterLabel": "100",
+            "DeveloperName": "Hundred",
+            "Language__c": "Spanish",
+            "NumberValue__c": "cien",
+            "OptionalValue__c": "ciento"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef11"
+            },
+            "MasterLabel": "$",
+            "DeveloperName": "CurrencySymbol",
+            "Language__c": "Spanish",
+            "NumberValue__c": "peso",
+            "OptionalValue__c": "pesos"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef12"
+            },
+            "MasterLabel": "15",
+            "DeveloperName": "Quince",
+            "Language__c": "Spanish",
+            "NumberValue__c": "quince"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef13"
+            },
+            "MasterLabel": "19",
+            "DeveloperName": "Diecinueve",
+            "Language__c": "Spanish",
+            "NumberValue__c": "diecinueve"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef14"
+            },
+            "MasterLabel": "16",
+            "DeveloperName": "Dieciseis",
+            "Language__c": "Spanish",
+            "NumberValue__c": "dieciséis"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef15"
+            },
+            "MasterLabel": "10",
+            "DeveloperName": "Diez",
+            "Language__c": "Spanish",
+            "NumberValue__c": "diez"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef16"
+            },
+            "MasterLabel": "13",
+            "DeveloperName": "Trece",
+            "Language__c": "Spanish",
+            "NumberValue__c": "trece"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef17"
+            },
+            "MasterLabel": "23",
+            "DeveloperName": "Veintitres",
+            "Language__c": "Spanish",
+            "NumberValue__c": "veintitres"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef18"
+            },
+            "MasterLabel": "200",
+            "DeveloperName": "Doscientos",
+            "Language__c": "Spanish",
+            "NumberValue__c": "doscientos"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef19"
+            },
+            "MasterLabel": "2",
+            "DeveloperName": "Dos",
+            "Language__c": "Spanish",
+            "NumberValue__c": "dos"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef20"
+            },
+            "MasterLabel": "20",
+            "DeveloperName": "Veinte",
+            "Language__c": "Spanish",
+            "NumberValue__c": "veinte"
+        },
+        {
+            "attributes": {
+                "type": "NumberToTextConfiguration__mdt",
+                "referenceId": "NumberToTextConfiguration__mdtRef21"
+            },
+            "MasterLabel": "1",
+            "DeveloperName": "One",
+            "Language__c": "Spanish",
+            "NumberValue__c": "un"
+        }
+    ]
+}

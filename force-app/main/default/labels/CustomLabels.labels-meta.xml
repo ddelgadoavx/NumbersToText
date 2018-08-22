@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AVX_NTT_001</fullName>
+        <categories>Error message</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Number too long</shortDescription>
+        <value>Maximum integer length to translate exceeded. Max length allowed: 12</value>
+    </labels>
+</CustomLabels>
