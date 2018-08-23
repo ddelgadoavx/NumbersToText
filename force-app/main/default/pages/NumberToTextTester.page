@@ -1,0 +1,46 @@
+<apex:page lightningStylesheets="true" controller="NumberToTextTesterController" >
+	
+	<apex:sectionHeader title="Tester" subTitle="Convert Numbers to Text" />
+	<apex:pageMessages />
+	<apex:form>
+		<apex:PageBlock>
+		<apex:PageBlockButtons location="bottom">
+			<apex:commandButton value="Convert" action="{!doConvertion}"/>
+		</apex:PageBlockButtons>
+			<apex:PageBlockSection columns="1">
+				<apex:PageBlockSectionItem >
+					<apex:outputLabel value="Language"/>
+			        <apex:selectList value="{!strLanguage}" multiselect="false" size="1">
+			            <apex:selectOptions value="{!lstLanguages}"/>
+			        </apex:selectList>
+			    </apex:PageBlockSectionItem>
+				<apex:PageBlockSectionItem >
+					<apex:outputLabel value="Include cents value"/>
+			        <apex:inputCheckbox value="{!blnIncludeCents}"/>
+			    </apex:PageBlockSectionItem>
+				<apex:PageBlockSectionItem >
+					<apex:outputLabel value="Include cents as text"/>
+			        <apex:inputCheckbox value="{!blnIncludeCentsAsText}"/>
+			    </apex:PageBlockSectionItem>
+				<apex:PageBlockSectionItem >
+					<apex:outputLabel value="Include currency name"/>
+			        <apex:inputCheckbox value="{!blnWithCurrencyName}"/>
+			    </apex:PageBlockSectionItem>
+				<apex:PageBlockSectionItem >
+					<apex:outputLabel value="Include currency type"/>
+			        <apex:inputCheckbox value="{!blnWithCurrenyType}"/>
+			    </apex:PageBlockSectionItem>
+				<apex:PageBlockSectionItem >
+					<apex:outputLabel value="Number"/>
+			        <apex:inputText value="{!decNumValue}"/>
+			    </apex:PageBlockSectionItem>
+				<apex:PageBlockSectionItem >
+					<apex:outputLabel value="Translation"/>
+			        <apex:outputText value="{!strConvertedValue}"/>
+			    </apex:PageBlockSectionItem>
+			</apex:PageBlockSection>
+		</apex:PageBlock>
+    </apex:form>
+
+	<!-- End Default Content REMOVE THIS -->
+</apex:page>
