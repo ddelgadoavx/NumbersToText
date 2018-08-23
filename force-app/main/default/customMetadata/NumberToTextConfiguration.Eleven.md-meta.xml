@@ -4,11 +4,11 @@
     <protected>false</protected>
     <values>
         <field>Language__c</field>
-        <value xsi:type="xsd:string">Spanish</value>
+        <value xsi:type="xsd:string">English</value>
     </values>
     <values>
         <field>NumberValue__c</field>
-        <value xsi:type="xsd:string">once</value>
+        <value xsi:type="xsd:string">eleven</value>
     </values>
     <values>
         <field>OptionalValue__c</field>

@@ -136,9 +136,9 @@ public with sharing class NumberToText_Utils {
 		{
 			//Obtiene la configuración de los números
 			map<string,NumberToTextConfiguration__mdt> mapConfiguration = getConfig( langType );
-			centenas = new numero( intValorEvaluar, 100, null, mapConfiguration, numTripleta, intValorInicial );
-			decenas = new numero( intValorEvaluar, 10, centenas, mapConfiguration, numTripleta, intValorInicial );
-			unidades = new numero( intValorEvaluar, 1, decenas, mapConfiguration, numTripleta, intValorInicial );
+			centenas = new numero( intValorEvaluar, 100, null, mapConfiguration, numTripleta, intValorInicial, langType );
+			decenas = new numero( intValorEvaluar, 10, centenas, mapConfiguration, numTripleta, intValorInicial, langType );
+			unidades = new numero( intValorEvaluar, 1, decenas, mapConfiguration, numTripleta, intValorInicial, langType );
 		}
 	}
 	
@@ -152,7 +152,7 @@ public with sharing class NumberToText_Utils {
 		private string strSegundo;
 		private string strTextoFinal;
 		
-		public numero( Integer intValorEvaluar, integer newFactor, numero numPredecesor, map<string,NumberToTextConfiguration__mdt> mapConfiguration, integer numTripleta, Long intValorInicial )
+		public numero( Integer intValorEvaluar, integer newFactor, numero numPredecesor, map<string,NumberToTextConfiguration__mdt> mapConfiguration, integer numTripleta, Long intValorInicial, Language langType )
 		{
 			factor = newFactor;
 			
@@ -178,7 +178,7 @@ public with sharing class NumberToText_Utils {
 			}
 			else if( factor == 1 )
 			{
-				strDirecto = numPredecesor.getValorTraducir() > 0 && valorTraducir > 0 ? 'y ' : '';
+				strDirecto = numPredecesor.getValorTraducir() > 0 && valorTraducir > 0 && langType == NumberToText_Utils.Language.SPANISH ? 'y ' : '';
 			}
 			
 			//Calcula el segundo valor

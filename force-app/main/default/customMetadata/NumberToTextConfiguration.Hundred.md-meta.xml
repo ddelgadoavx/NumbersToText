@@ -4,14 +4,14 @@
     <protected>false</protected>
     <values>
         <field>Language__c</field>
-        <value xsi:type="xsd:string">Spanish</value>
+        <value xsi:type="xsd:string">English</value>
     </values>
     <values>
         <field>NumberValue__c</field>
-        <value xsi:type="xsd:string">cien</value>
+        <value xsi:type="xsd:string">hundred</value>
     </values>
     <values>
         <field>OptionalValue__c</field>
-        <value xsi:type="xsd:string">ciento</value>
+        <value xsi:type="xsd:string">hundred</value>
     </values>
 </CustomMetadata>

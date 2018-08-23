@@ -32,14 +32,14 @@
     [
         "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1534978391215,
-            "changeTime": 1534978391215,
-            "contentHash": "14f74fa0638f0ae62f5c1d2e2b2901103a7e7084",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 352,
+            "modifiedTime": 1534985005694,
+            "changeTime": 1534985005694,
+            "contentHash": "6e0d83888a26de8bccbc16553a5735bb3b0afd4e"
         }
     ],
     [
@@ -139,53 +139,53 @@
     [
         "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4536,
-            "modifiedTime": 1534971029332,
-            "changeTime": 1534971029332,
-            "contentHash": "bf660012ecf6c381c0f946d3859028f36f7b514e",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5037,
+            "modifiedTime": 1534985005704,
+            "changeTime": 1534985005704,
+            "contentHash": "016b8e1f668e7fba49e7e72bd8c61c908872f52a"
         }
     ],
     [
         "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4536,
-            "modifiedTime": 1534971029336,
-            "changeTime": 1534971029336,
-            "contentHash": "bf660012ecf6c381c0f946d3859028f36f7b514e",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5037,
+            "modifiedTime": 1534985005711,
+            "changeTime": 1534985005711,
+            "contentHash": "016b8e1f668e7fba49e7e72bd8c61c908872f52a"
         }
     ],
     [
         "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 4874,
-            "modifiedTime": 1534971029341,
-            "changeTime": 1534971029341,
-            "contentHash": "bca5a3d80d3b53475dbc829ee84ab323fc2b5019",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 5375,
+            "modifiedTime": 1534985005717,
+            "changeTime": 1534985005717,
+            "contentHash": "c20961d83ed5024abcd6956da30323cebfe0ed1a"
         }
     ],
     [
         "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 17953,
-            "modifiedTime": 1534971029353,
-            "changeTime": 1534971029353,
-            "contentHash": "4e964f65d84bcfdcd4592eb9e573eb3d6b358a5e",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 18451,
+            "modifiedTime": 1534985005751,
+            "changeTime": 1534985005751,
+            "contentHash": "264234d7765db605bc1fcc736f0fdf871a9a7a82"
         }
     ],
     [
@@ -607,14 +607,14 @@
     [
         "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata",
         {
+            "state": "u",
             "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata",
             "isDirectory": true,
-            "size": 736,
-            "modifiedTime": 1534974685450,
-            "changeTime": 1534974685450,
-            "contentHash": "bb3cbed8a2f5f94b5cdffb442b7831aca5d1f60e",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 1504,
+            "modifiedTime": 1534985005790,
+            "changeTime": 1534985005790,
+            "contentHash": "28484db11b2d0fc3ac37f514c974ae1e2544546a"
         }
     ],
     [
@@ -633,14 +633,14 @@
     [
         "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/classes/NumberToText_Utils.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/classes/NumberToText_Utils.cls",
             "isDirectory": false,
+            "size": 12022,
+            "modifiedTime": 1534984920130,
+            "changeTime": 1534984920130,
+            "contentHash": "18ebd78f6f92e797befd19b4e5085d19fd1775c5",
             "isMetadataFile": false,
-            "size": 11889,
-            "modifiedTime": 1534984775070,
-            "changeTime": 1534984775070,
-            "contentHash": "4cb182b212f5c3462d90ae6c696823864aa19732"
+            "state": "u"
         }
     ],
     [
@@ -659,14 +659,14 @@
     [
         "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/pages/NumberToTextTester.page",
         {
-            "state": "u",
             "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/pages/NumberToTextTester.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1875,
             "modifiedTime": 1534984699702,
             "changeTime": 1534984699702,
-            "contentHash": "83bef5df43ffb9e404f229b81c035dcb02e0d2c0"
+            "contentHash": "83bef5df43ffb9e404f229b81c035dcb02e0d2c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -698,14 +698,14 @@
     [
         "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/classes/NumberToTextTesterController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/classes/NumberToTextTesterController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1580,
             "modifiedTime": 1534984722084,
             "changeTime": 1534984722084,
-            "contentHash": "629bf9fb5bdf24e8ff36c4871245bdd1d80e3c1b"
+            "contentHash": "629bf9fb5bdf24e8ff36c4871245bdd1d80e3c1b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -719,6 +719,344 @@
             "contentHash": "2ad529446bf6964b47ec191eb09e9d8ca18c8116",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/tabs/Numbers_to_Text.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/tabs/Numbers_to_Text.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 261,
+            "modifiedTime": 1534985005696,
+            "changeTime": 1534985005696,
+            "contentHash": "af2151638d74f949a3e4b22265c7f970892e1234"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Sesenta.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Sesenta.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 608,
+            "modifiedTime": 1534985005753,
+            "changeTime": 1534985005753,
+            "contentHash": "c191a8e0f44de4336ae18982057731ce08debe67"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cuatro.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cuatro.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 606,
+            "modifiedTime": 1534985005754,
+            "changeTime": 1534985005754,
+            "contentHash": "558abb6e48fd327dfcda153d08059e109c554589"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Trescientos.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Trescientos.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 613,
+            "modifiedTime": 1534985005757,
+            "changeTime": 1534985005757,
+            "contentHash": "2826469ea00f3d59abe17ddcc1dafa88b707b461"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Mil.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Mil.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 606,
+            "modifiedTime": 1534985005758,
+            "changeTime": 1534985005758,
+            "contentHash": "c0f61a2b734dd2abe65e183f560fb4154db631bf"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Tres.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Tres.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 604,
+            "modifiedTime": 1534985005764,
+            "changeTime": 1534985005764,
+            "contentHash": "a5c138da95cf8777898dc4b2272b36ac7fd856a7"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Ochocientos.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Ochocientos.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 613,
+            "modifiedTime": 1534985005765,
+            "changeTime": 1534985005765,
+            "contentHash": "b2be47987c6cd86402c3028d04dbb133bf140a0b"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Treinta.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Treinta.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 608,
+            "modifiedTime": 1534985005766,
+            "changeTime": 1534985005766,
+            "contentHash": "a6992a8cc5bfbc23511b682c8014ebc4c07409b2"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Siete.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Siete.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 605,
+            "modifiedTime": 1534985005767,
+            "changeTime": 1534985005767,
+            "contentHash": "f4f7e3efd335dc39a7ce3ebfda6403d9fe2c18c9"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Quinientos.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Quinientos.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 612,
+            "modifiedTime": 1534985005769,
+            "changeTime": 1534985005769,
+            "contentHash": "3b087f92ae5be087d6f112ef80481aca8fd653a5"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cuatrocientos.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cuatrocientos.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 615,
+            "modifiedTime": 1534985005770,
+            "changeTime": 1534985005770,
+            "contentHash": "feafce068511b6a067c814781149181ee8919a17"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Millon.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Millon.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 635,
+            "modifiedTime": 1534985005771,
+            "changeTime": 1534985005771,
+            "contentHash": "530aae0e34ccf6f8d10e103a15edfc3020204894"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Novecientos.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Novecientos.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 613,
+            "modifiedTime": 1534985005773,
+            "changeTime": 1534985005773,
+            "contentHash": "82164158378cefdaa95dc54dd347f04fa749381b"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cinco.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cinco.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 605,
+            "modifiedTime": 1534985005775,
+            "changeTime": 1534985005775,
+            "contentHash": "414a6a45cc336a8695041c33239a7c2f344016b8"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Setenta.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Setenta.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 608,
+            "modifiedTime": 1534985005776,
+            "changeTime": 1534985005776,
+            "contentHash": "60fa04c71d0d6ae5d3046b0dc299b65d11f5b57c"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Seis.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Seis.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 604,
+            "modifiedTime": 1534985005778,
+            "changeTime": 1534985005778,
+            "contentHash": "f5b24b9644c560b9ffd1932d77c437bb1e9d2925"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Ochenta.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Ochenta.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 608,
+            "modifiedTime": 1534985005780,
+            "changeTime": 1534985005780,
+            "contentHash": "078370dd3206eb244ca0eaced82c6b1b66470526"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cintuenta.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cintuenta.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 610,
+            "modifiedTime": 1534985005781,
+            "changeTime": 1534985005781,
+            "contentHash": "182b95f3c5da392c2dc87545744193c9c01900cb"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Seiscientos.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Seiscientos.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 613,
+            "modifiedTime": 1534985005782,
+            "changeTime": 1534985005782,
+            "contentHash": "1d4dfc52d6da70dcefff07ed94c9a91d18162c37"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cuarenta.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cuarenta.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 609,
+            "modifiedTime": 1534985005783,
+            "changeTime": 1534985005783,
+            "contentHash": "0bc766893266bcf44467461dcbe57fefae887a56"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Nueve.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Nueve.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 605,
+            "modifiedTime": 1534985005784,
+            "changeTime": 1534985005784,
+            "contentHash": "264abac172fa596a84647a68e4512c3abfc965f2"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cero.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Cero.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 604,
+            "modifiedTime": 1534985005785,
+            "changeTime": 1534985005785,
+            "contentHash": "69d60bdcf85810348f43f3a93564c9ff018bba73"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Setecientos.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Setecientos.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 613,
+            "modifiedTime": 1534985005787,
+            "changeTime": 1534985005787,
+            "contentHash": "c8b134c74301919c8918a8678222029d55023c7f"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Noventa.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Noventa.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 608,
+            "modifiedTime": 1534985005789,
+            "changeTime": 1534985005789,
+            "contentHash": "cc29bb8373621363f2650e153438f3f62a63c7fa"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Ocho.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/customMetadata/NumberToTextConfiguration.Ocho.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 604,
+            "modifiedTime": 1534985005791,
+            "changeTime": 1534985005791,
+            "contentHash": "0927eaa874620066986ee9ded64f4c5d70d7a0f7"
+        }
+    ],
+    [
+        "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ddelgado/Devel/DX Projects/NumbersToText/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1534985005696,
+            "changeTime": 1534985005696,
+            "contentHash": "fd651a4e22417be72a3f2be5adc6726a409a2bf8"
         }
     ]
 ]
